@@ -2,7 +2,6 @@
   margin: 0 auto;
 }
 
-
 .main-wrapper {
   background-image: url(../images/image\ 12\ \(1\).svg) ;
   background-repeat: no-repeat;
@@ -13,7 +12,7 @@
 }
 
 h1{
-  font-size: 2em;
+  font-size: 32px;
   font-weight: 500;
   color: rgba(255, 255, 255, 1);
   font-family: Roboto, sans-serif;
@@ -23,7 +22,7 @@ h1{
 }
 
 p {
-  font-size: 1.25em;
+  font-size: 20px;
   font-weight: 400;
   color: rgba(255, 255, 255, 1);
   font-family: Roboto, sans-serif;
